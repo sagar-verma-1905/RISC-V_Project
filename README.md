@@ -14,13 +14,6 @@ To maintain consistency across our software tools, this repository strictly trac
 
 /docs - Architecture diagrams, ISA references, and design documentation.
 
-🛠️ Toolchain
-
-Synthesis & Linting: Yosys
-
-Simulation: Icarus Verilog (iverilog) & GTKWave
-
-Languages: Verilog-2001 / SystemVerilog
 
 🤝 Git Workflow & Commit Rules
 
@@ -36,12 +29,9 @@ No Build Junk: Never force-add .vcd, .log, or .jou files.
 
 👥 Team Members
 
-[Your Name] - Team Lead / Top-Level Integration
-
-[Teammate 1 Name] - [Assigned Module/Role]
-
-[Teammate 2 Name] - [Assigned Module/Role]
-
-[Teammate 3 Name] - [Assigned Module/Role]
-
-Last Updated: [Current Date] - Project initialization and repository setup.
+Sagar 
+Kushhagra
+Abhinav
+Derick
+Vineet
+Gauravkumar
